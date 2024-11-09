@@ -1,3 +1,3 @@
-# Heicoders Currency Converter
+# Heicoders1 Currency Converter
 
-Uses React, Vite, ExchangeRate-API
+hehehahas
