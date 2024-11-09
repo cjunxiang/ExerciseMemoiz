@@ -1,0 +1,41 @@
+.ceo {
+    border: white;
+    border-style: double;
+    padding: 10px;
+    margin: 5px;
+
+    button {
+        margin: 5px;
+        background-color: white;
+        color: black;
+    }
+}
+
+.surboninates {
+    display: flex;
+    flex-direction: row;
+}
+
+.department {
+    background-color: blue;
+    border: blue;
+    border-style: double;
+    padding: 10px;
+    margin: 5px;
+}
+
+.manager {
+    background-color: pink;
+    color: black;
+    border-style: double;
+    padding: 10px;
+    margin: 5px;
+}
+
+.executive {
+    background-color: yellowgreen;
+    color: black;
+    border-style: double;
+    padding: 10px;
+    margin: 5px;
+}
